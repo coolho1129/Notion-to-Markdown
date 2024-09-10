@@ -81,4 +81,3 @@ jobs:
                     echo "CHANGES_DETECTED=false" >> $GITHUB_OUTPUT
                   fi
                   git push
-
